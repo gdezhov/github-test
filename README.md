@@ -1,2 +1,2 @@
 # github-test
-This repository is to test now to properly set Repository
+This repository is to test how to properly set Repository
